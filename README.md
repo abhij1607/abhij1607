@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhi</h1>
-<h3 align="center">An ambitious Full Stack Web Developer from Bangalore, India</h3>
+<h3 align="center">An ambitious Web Developer from Bangalore, India</h3>
 
 <h3>Here are some facts about me:</h3>
 
